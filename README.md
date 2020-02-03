@@ -7,7 +7,7 @@ Full functional Ajax Admin Theme with Codeigniter 4. Completely functional user 
 * User Login
 * Auto-lock screen after 2 minutes
 * Dynamic multiple menus
-* Also whole features of LobiAdmin 
+* Also whole features of [LobiAdmin](https://lobianijs.com/lobiadmin/version/1.0/ajax/#dashboard)
 
 
 ## Installation
